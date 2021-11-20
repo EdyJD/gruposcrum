@@ -1,0 +1,23 @@
+input[type="submit"].bullon1,
+input[type="reset"].bullon1,
+input[type="button"].bullon1,
+button.bullon1,
+.button.bullon1 {
+    background-color: #2144df    ;
+}
+
+    input[type="submit"].bullon1:hover,
+    input[type="reset"].bullon1:hover,
+    input[type="button"].bullon1:hover,
+    button.bullon1:hover,
+    .button.bullon1:hover {
+        background-color: #3459ff;
+    }
+
+    input[type="submit"].bullon1:active,
+    input[type="reset"].bullon1:active,
+    input[type="button"].bullon1:active,
+    button.bullon1:active,
+    .button.bullon1:active {
+        background-color: #2144df;
+    }
