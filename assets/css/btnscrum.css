@@ -1,23 +1,23 @@
-input[type="submit"].bullon1,
-input[type="reset"].bullon1,
-input[type="button"].bullon1,
-button.bullon1,
-.button.bullon1 {
+input[type="submit"].scrum,
+input[type="reset"].scrum,
+input[type="button"].scrum,
+button.scrum,
+.button.scrum {
     background-color: #2144df    ;
 }
 
-    input[type="submit"].bullon1:hover,
-    input[type="reset"].bullon1:hover,
-    input[type="button"].bullon1:hover,
-    button.bullon1:hover,
-    .button.bullon1:hover {
+    input[type="submit"].scrum:hover,
+    input[type="reset"].scrum:hover,
+    input[type="button"].scrum:hover,
+    button.scrum:hover,
+    .button.scrum:hover {
         background-color: #3459ff;
     }
 
-    input[type="submit"].bullon1:active,
-    input[type="reset"].bullon1:active,
-    input[type="button"].bullon1:active,
-    button.bullon1:active,
-    .button.bullon1:active {
+    input[type="submit"].scrum:active,
+    input[type="reset"].scrum:active,
+    input[type="button"].scrum:active,
+    button.scrum:active,
+    .button.scrum:active {
         background-color: #2144df;
     }
